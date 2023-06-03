@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/youTube-Clone/static/css/main.da0e22d3.css",
+    "main.js": "/youTube-Clone/static/js/main.b6f86e1c.js",
+    "static/media/—Pngtree—youtube logo icon_3560543.png": "/youTube-Clone/static/media/—Pngtree—youtube logo icon_3560543.2107639297f07f787fbb.png",
+    "static/media/channels4_profile.jpg": "/youTube-Clone/static/media/channels4_profile.754a4886cdb8156475a5.jpg",
+    "index.html": "/youTube-Clone/index.html",
+    "main.da0e22d3.css.map": "/youTube-Clone/static/css/main.da0e22d3.css.map",
+    "main.b6f86e1c.js.map": "/youTube-Clone/static/js/main.b6f86e1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da0e22d3.css",
+    "static/js/main.b6f86e1c.js"
+  ]
+}
